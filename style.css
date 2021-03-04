@@ -1,0 +1,62 @@
+img {
+  overflow: hidden;
+  max-width: 800px;
+  margin: 2px 20%;
+}
+
+#main_contacts {
+  display: inline-block;
+}
+
+#contacts {
+  overflow: hidden;
+  float: left;
+  padding: 0px;
+  margin-left: 40px;
+  margin-right: 50px;
+}
+
+#contacts:hover {
+  float: inline;
+  transition: 0.1s;
+  transform: scaleX(1.2);
+}
+
+#contacts,
+#skills,
+#education {
+  font-family: Arial, sans-serif;
+}
+
+#skills {
+  padding-top: 40px;
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+
+#education {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+h1 {
+  margin-left: 17%;
+  margin-bottom: 2px;
+  margin-top: 2px;
+  font-weight: 200;
+  font-size: 48pt;
+  font-family: Arial, sans-serif;
+  color: grey;
+}
+
+div {
+  width: 70%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+footer {
+  font-family: sans-serif;
+  width: 100%;
+  margin: 0 30%;
+}
