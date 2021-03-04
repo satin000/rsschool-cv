@@ -14,7 +14,7 @@ m366087@yandex.ru
 - MC Office, graphic programs (Adobe Photoshop, Lightroom);
 - Languages: Russian-fluent, English-A2;
 
-##Education
+## Education
 
 - Chuvash State Pedagogical University named after I. Ya. Yakovlev, 2016
   44.03.04 Professional training (by industry)
